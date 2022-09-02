@@ -14,7 +14,7 @@
 
 Ссылка на презентацию с ответами на вопросы:
 [презентация]([http://example.com/link](https://docs.google.com/presentation/d/124_QYDiKBbdLur19yl86p0093WgeQxJ3yk3bwUQp1XQ/edit?usp=sharing))
-<a href=" https://docs.google.com/presentation/d/124_QYDiKBbdLur19yl86p0093WgeQxJ3yk3bwUQp1XQ/edit?usp=sharing">презентация</a>
+<a href ="https://docs.google.com/presentation/d/124_QYDiKBbdLur19yl86p0093WgeQxJ3yk3bwUQp1XQ/edit?usp=sharing">презентация</a>
 <a href ="https://drive.google.com/file/d/1Og_jwXvC0NsR9JMW61_2YchZk3qarsc3/view?usp=sharing">презентации</a>
 
 
