@@ -10,7 +10,7 @@
 
 **Задача проекта:** Для решения поставленной цели необходимо автоматизировать процесс и построить дашборд для анализа.
 
-Ссылка на дашборд в **Tableau Public**: <a href =" https://public.tableau.com/app/profile/mikhail6624/viz/Project_yandex_16611638341260/Dashboard1?publish=yes">дашборд</a>
+Ссылка на дашборд в **Tableau Public**: <a href ="https://public.tableau.com/app/profile/mikhail6624/viz/Project_yandex_16611638341260/Dashboard1?publish=yes">дашборд</a>
 
 Ссылка на презентацию с ответами на вопросы: <a href ="https://docs.google.com/presentation/d/124_QYDiKBbdLur19yl86p0093WgeQxJ3yk3bwUQp1XQ/edit?usp=sharing">презентация</a>
 
