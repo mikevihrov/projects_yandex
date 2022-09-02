@@ -14,4 +14,4 @@
 
 **Язык:** Python
 
-**Библиотеки:** pandas, matplotlib, seaborn, plotly numpy, math, scipy, datetime
+**Библиотеки:** pandas, matplotlib, seaborn, plotly, numpy, math, scipy, datetime
