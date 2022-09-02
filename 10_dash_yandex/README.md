@@ -12,7 +12,8 @@
 
 Ссылка на дашборд в **Tableau Public**: <a href=" https://public.tableau.com/app/profile/mikhail6624/viz/Project_yandex_16611638341260/Dashboard1?publish=yes">дашборд</a>
 
-Ссылка на презентацию с ответами на вопросы:  
+Ссылка на презентацию с ответами на вопросы:
+[презентация]([http://example.com/link](https://docs.google.com/presentation/d/124_QYDiKBbdLur19yl86p0093WgeQxJ3yk3bwUQp1XQ/edit?usp=sharing))
 <a href=" https://docs.google.com/presentation/d/124_QYDiKBbdLur19yl86p0093WgeQxJ3yk3bwUQp1XQ/edit?usp=sharing">презентация</a>
 
 **Инструменты:** Python, PostgreSQL, Tableau
