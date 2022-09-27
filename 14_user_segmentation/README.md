@@ -15,6 +15,6 @@
 
 Также для отражения отточных клиентов в зависимости от количества продуктов был построен дашборд в Tableau Public: <a href ="https://public.tableau.com/app/profile/mikhail6624/viz/dash_final_project/dash?publish=yes">дашборд</a>
 
-**Инструменты:** Python, Tableau
+**Инструменты:** Python, Tableau.
 
-**Библиотеки python:** pandas, matplotlib, seaborn, numpy, scipy
+**Библиотеки python:** pandas, matplotlib, seaborn, numpy, scipy.
