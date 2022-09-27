@@ -17,4 +17,4 @@
 
 **Инструменты:** Python, Tableau.
 
-**Библиотеки python:** pandas, matplotlib, seaborn, numpy, scipy.
+**Библиотеки python:** pandas, matplotlib, seaborn, numpy, scipy
